@@ -1,5 +1,5 @@
-Here you can say lots of fun things about your site.
+I work as a data plumber.
 
-Maybe say a some things about yourself.
+Instead of deviating from one's job to save the princess and collect coins, I build, test and maintain data pipelines.
 
-Or maybe what you plan to blog about.
+I have a wide range of hobbies, neither of which I master, but I enjoy all of them.
